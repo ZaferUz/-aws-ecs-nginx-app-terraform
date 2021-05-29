@@ -1,7 +1,7 @@
 variable "domain" {
   type = string
   description = "FQDN"
-  default = "my-test-domain.com"
+  default = "drzaferuzunco.uk"
 }
 
 variable "geo_loadbalancer" {
