@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket = "ercan-tf-state"
+    bucket = "zafer-tf-state"
     key    = "nginx-app/route53.tfstate"
     region = "eu-central-1"
   }
